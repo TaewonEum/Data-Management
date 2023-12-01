@@ -1,5 +1,7 @@
 # Data-Management
 
+- 12월 업로드 예정
+
 - 소스코드와 데이터에 대한 버전 관리
 
 - Data Version Control
