@@ -9,4 +9,9 @@
 3) Data Pipeline을 DAG으로 관리
 4) Git과 유사한 인터페이스
 
+- Git
 
+1) git pull
+2) git push
+3) git add
+4) git commit
